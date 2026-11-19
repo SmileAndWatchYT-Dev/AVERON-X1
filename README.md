@@ -15,5 +15,6 @@ It's a long-term project, and I'm learning as I build.
 
 ## Status
 Early development — no physical hardware yet.
+Just A Virtual Simulation...
 
 More updates coming soon! 🚀
