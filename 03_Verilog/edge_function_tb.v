@@ -100,7 +100,7 @@ module edge_function_tb;
             failed = failed + 1;
         end
 
-        // Test 7: Maximum positive result
+        // Test 7: Large positive result near input limits
         x = 32767; y = -32768;
         x0 = -32768; y0 = 32767;
         x1 = 32767; y1 = 32767;
